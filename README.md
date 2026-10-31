@@ -10,7 +10,7 @@ The project implements the TMS9900 processor and associated console hardware usi
 
 **Project established:** October 2026  
 **Project creator:** reed-rosa  
-**Status:** Private development
+**Status:** Public Windows binary preview (v0.01); source code remains private
 
 ### Project principles
 
@@ -28,4 +28,5 @@ Copyright © 2026 reed-rosa. All rights reserved.
 
 Texas Instruments and TI-99/4A are referenced solely to identify the historical computer being emulated. This is an independent project and is not affiliated with Texas Instruments.
 
-**Source code and public distribution:** Not yet released.# 99EMU
+**Source code:** Private, not publicly released.  
+**Public distribution:** Windows binary preview v0.01 is available in this repository.
